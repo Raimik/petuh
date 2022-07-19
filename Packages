@@ -1,0 +1,9 @@
+Package: dev.petuh.t-tinder++
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: CaspD3V
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debians/org.tihmstar.kDFUApp-1.0.2.deb
+Size: 80458
